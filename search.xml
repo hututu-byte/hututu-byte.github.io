@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2024/06/13/day1/"/>
-      <url>/2024/06/13/day1/</url>
+      <title>第一篇文章</title>
+      <link href="/2024/06/12/day1/"/>
+      <url>/2024/06/12/day1/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2>]]></content>
       
       
+      <categories>
+          
+          <category> CS </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> java </tag>
+            
+        </tags>
       
     </entry>
     
